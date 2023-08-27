@@ -8,5 +8,5 @@ public interface Repository {
 
     boolean removeToy(Toy toy);
 
-    Toy findFirst(String type);
+     Toy findFirst(String type);
 }

@@ -25,4 +25,6 @@ public interface House {
     Collection<Cat> getCats();
 
     Collection<Toy> getToys();
+
+
 }
